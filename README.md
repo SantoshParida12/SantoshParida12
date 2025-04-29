@@ -1,3 +1,3 @@
 # Hi there I'm Santosh👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SantoshParida12)](https://github.com/SantoshParida12/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SantoshParida12)](https://github.com/SantoshParida12/github-readme-stats)
