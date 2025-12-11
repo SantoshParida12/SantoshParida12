@@ -1,3 +1,6 @@
 # Hi there I'm Santosh👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SantoshParida12)](https://github.com/SantoshParida12/github-readme-stats)
+[![Santosh's GitHub Stats](https://gh-readme-stats.vercel.app/api?username=SantoshParida12&show_icons=true&count_private=true&theme=default)](https://github.com/SantoshParida12)
+
+[![Top Languages](https://gh-readme-stats.vercel.app/api/top-langs/?username=SantoshParida12&layout=compact&theme=default)](https://github.com/SantoshParida12)
+
